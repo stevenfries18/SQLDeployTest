@@ -62,4 +62,7 @@
   <ItemGroup>
     <Build Include="Table\Client.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SQLDeployTest.publish.xml" />
+  </ItemGroup>
 </Project>
