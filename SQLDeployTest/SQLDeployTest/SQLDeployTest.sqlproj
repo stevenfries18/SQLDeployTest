@@ -65,4 +65,7 @@
   <ItemGroup>
     <None Include="SQLDeployTest.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SQLDeployTest.refactorlog" />
+  </ItemGroup>
 </Project>
