@@ -58,9 +58,11 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Table" />
+    <Folder Include="Stored Procedure" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Table\Client.sql" />
+    <Build Include="Stored Procedure\usp_GetAllJims.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SQLDeployTest.publish.xml" />
