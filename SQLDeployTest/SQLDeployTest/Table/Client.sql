@@ -2,5 +2,6 @@
 (
 	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
     [Name] VARCHAR(200) NULL, 
-    [Active1] BIT NULL DEFAULT 0
+    [Active1] BIT NULL DEFAULT 0, 
+    [Jim12] INT NULL
 )
